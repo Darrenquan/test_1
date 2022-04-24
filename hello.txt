@@ -15,3 +15,4 @@ hello! neu！
 master xiugai
 hot-fix xiugai
 在github里改变了一下！！！
+测试使用ssh免密登录！！！
